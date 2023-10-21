@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nama": "Konser 1",
+        "deskripsi": "Deskripsi konser pertama. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "jadwal": "10 November 2023, 19.00 WIB",
+        "keterangan": "Konser diadakan di Gedung Konser XYZ.",
+        "harga": 200000
+    },
+    {
+        "id": 2,
+        "nama": "Konser 2",
+        "deskripsi": "Deskripsi konser kedua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "jadwal": "15 November 2023, 20.00 WIB",
+        "keterangan": "Konser diadakan di Aula Seni ABC.",
+        "harga": 250000
+    },
+    {
+        "id": 3,
+        "nama": "Konser 3",
+        "deskripsi": "Deskripsi konser ketiga. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "jadwal": "20 November 2023, 18.30 WIB",
+        "keterangan": "Konser diadakan di Lapangan ABC.",
+        "harga": 180000
+    },
+    {
+        "id": 4,
+        "nama": "Konser 4",
+        "deskripsi": "Deskripsi konser keempat. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "jadwal": "25 November 2023, 19.30 WIB",
+        "keterangan": "Konser diadakan di Teater ABC.",
+        "harga": 220000
+    },
+    {
+        "id": 5,
+        "nama": "Konser 5",
+        "deskripsi": "Deskripsi konser kelima. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "jadwal": "30 November 2023, 20.30 WIB",
+        "keterangan": "Konser diadakan di Stadion XYZ.",
+        "harga": 260000
+    }
+]
